@@ -27,4 +27,11 @@
          location = "group:Examples/Playground.playground">
       </FileRef>
    </Group>
+   <Group
+      location = "container:"
+      name = "Editing support">
+      <FileRef
+         location = "group:Editing support/Spreadsheet/Spreadsheet.xcodeproj">
+      </FileRef>
+   </Group>
 </Workspace>
